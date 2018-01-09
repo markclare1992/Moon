@@ -1,11 +1,11 @@
 # Site
 title:              'Personal Site'
 bio:                'Sports betting. Football. Data Science & Maths.'
-description:        'Sports trader/Gambler/Aspiring data scientist.'
+description:        'Sports trader.  Gambler.  Data scientist.'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/football.png'
-avatar:             'assets/img/profile.jpg'
+logo1:              'assets/img/football.png'
+logo:               'assets/img/profile.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
