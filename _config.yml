@@ -1,7 +1,7 @@
 # Site
 title:              "Personal Site"
-bio:                'Sports betting. Football. Data Science & Maths'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Sports betting. Football. Data Science & Maths.'
+description:        "Collection of public posts and repos."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,18 +39,18 @@ disqus_shortname:   #
 #bing-verify:
 #email:
 twitter:            "markclare1992"
-facebook:           username
-github-url:         username
+#facebook:           username
+github-url:         "markclare1992"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
