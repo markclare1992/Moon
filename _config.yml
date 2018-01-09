@@ -4,7 +4,7 @@ bio:                'Sports betting. Football. Data Science & Maths.'
 description:        "Collection of public posts and repos."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/football.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
